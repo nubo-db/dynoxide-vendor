@@ -1,0 +1,10 @@
+{
+    "name": "dynoxide/dynoxide",
+    "description": "Holds the dynoxide vendor name on Packagist. The PHP package for Dynoxide is nubo-db/dynoxide.",
+    "type": "metapackage",
+    "license": "MIT",
+    "homepage": "https://dynoxide.dev",
+    "support": {
+        "source": "https://github.com/nubo-db/dynoxide-vendor"
+    }
+}
